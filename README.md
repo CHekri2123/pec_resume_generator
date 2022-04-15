@@ -1,4 +1,3 @@
-# pec_resume_generator
 # Resume generator
 Web based editor to create Resume in a customizable template  
 
